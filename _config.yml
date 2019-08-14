@@ -16,7 +16,8 @@
 title: Brandon H. Schlomann
 email: bschloma [at] uoregon.com
 description: "" 
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "/Users/brandonschlomann/Documents/Websites/bschloma.github.io" # the subpath of your site, e.g. /blog
+baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: ""
 github_username:  bschloma

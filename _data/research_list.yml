@@ -1,0 +1,11 @@
+docs_list_title: Research
+
+docs:
+- title: Spatial organization of gut microbes
+  url: spatial.md
+
+- title: Stochastic models of gut bacterial dynamics
+  url: models.md
+
+- title: Immune system sensing of gut bacteria
+  url: immune.md  
