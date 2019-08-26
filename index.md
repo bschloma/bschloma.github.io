@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home_no_posts
 ---
 ![example images]({{site.baseurl}}/assets/homefig.jpg)
 

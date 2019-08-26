@@ -21,6 +21,7 @@ baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: ""
 github_username:  bschloma
+show_excerpts: true
 
 # Build settings
 markdown: kramdown
