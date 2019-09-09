@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "Effects of sublethal antibiotic exposure on gut bacteria"
+layout: page
+permalink: /research/abx
 ---
+# Effects of sublethal antibiotic exposure on gut bacteria
+
 ![example model image]({{site.baseurl}}/assets/vib_cip_invitro_crop.jpg)
 
 Antibiotic treatments induce large, sometimes irreversible changes in the composition of the gut microbiome. While potentially dangerous, due to unintended consequences of such extreme microbiome perturbations, that antibiotics alter microbiome composition is not altogether surprising given their lethality. What is suprising however is that antibiotics can lead to large alterations of microbiome composition even at very low, sublethal doses (see, e.g., [REF]()). In addition, low dose antibiotics are well known to alter animal physiology: since the 1940s, livestock have routinely been fed small amounts of antibiotics to increase their biomass. This effect still defies explanation, though experiments in a mouse model indicate that the gut microbiome is likely involved ([Blazer REF]()). Together, these disruptive effects of low dose antibiotics have raised concerns that antibiotics present in the environment---soil, water, and food---pose a public health risk independent of their role in disseminating drug resistance ([NAS REF]()).
 
-One potential class of mechanisms underlying microbiome disruption by sublethal antibiotics involves the effects of these drugs on bacterial behavior and physiology at low concentrations. While molecular mechanisms vary across bugs and drugs, sublethal doses of antibiotics are generally known to drive bacteria into a more sessile lifestyle, marked by reduced division rates and increased display of biofilm-like behaviors. Given our previous findings concering the important role that bacterial aggregation plays in overall population dynamics and stability (see [here]({% post_url 2019-08-23-spatial %})), we investigated the effects of sublethal antibiotics on gut bacteria using our zebrafish model and live imaging (see [here]({% post_url 2019-08-23-spatial %})).
+One potential class of mechanisms underlying microbiome disruption by sublethal antibiotics involves the effects of these drugs on bacterial behavior and physiology at low concentrations. While molecular mechanisms vary across bugs and drugs, sublethal doses of antibiotics are generally known to drive bacteria into a more sessile lifestyle, marked by reduced division rates and increased display of biofilm-like behaviors. Given our previous findings concering the important role that bacterial aggregation plays in overall population dynamics and stability (see [here]()), we investigated the effects of sublethal antibiotics on gut bacteria using our zebrafish model and live imaging (see [here]()).
 
 We indeed found that sublethal doses of the widely used antibiotic ciprofloxacin leads to orders-of-magnitude greater reductions in the abundance of gut bacteria than would be predicted from in vitro measurements, and that this response is mediated by physical processes including aggregation [1]. Upon exposure to antbiotics bacteria shift to a more aggregated state in vivo, marked by fewer numbers of small clusters (Fig. 2). 
 
@@ -14,7 +16,7 @@ We indeed found that sublethal doses of the widely used antibiotic ciprofloxacin
 
 > Figure 2: test caption
 
-These small clusters turn out to function like a reservoir population that can re-seed the gut after large clusters are expelled from the gut. Their depletion therefore leaves populations vunerable to complete extinction events and collapse of the population. This transition is captured mathematically by a [minimal mathematical model]({% post_url 2019-08-23-models %}) and is analogous to gelation transitions in soft materials.
+These small clusters turn out to function like a reservoir population that can re-seed the gut after large clusters are expelled from the gut. Their depletion therefore leaves populations vunerable to complete extinction events and collapse of the population. This transition is captured mathematically by a [minimal mathematical model]() and is analogous to gelation transitions in soft materials.
 
 #### Papers:
 
