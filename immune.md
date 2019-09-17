@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /research/immune
 ---
 
 # Immune system sensing of gut bacteria

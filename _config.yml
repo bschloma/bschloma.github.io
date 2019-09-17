@@ -23,6 +23,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  bschloma
 show_excerpts: true
 
+# custom header pages
+header_pages:
+    - research.md
+    - publications.md
+    - cv.md
+
 # Build settings
 markdown: kramdown
 theme: minima
@@ -41,3 +47,4 @@ exclude:
 #   - vendor/gems/
 #   - vendor/ruby/
     - draft_files
+#    - subpages
