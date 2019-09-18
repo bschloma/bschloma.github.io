@@ -11,7 +11,7 @@ To probe the spatial organization of gut bacteria, we use naturally transparent 
 
 ![example model image]({{site.baseurl}}/assets/zebrafish_image.png)
 
-> Figure 1: Image of a 5 day-old zebrafish, with the gut highlighted by a red dye. Scale bar: 500 microns.
+> Figure 1: Image of a 5 day-old zebrafish, with the gut highlighted by a red dye. Scale bar: 500 &mu;m.
 > 
 
 
@@ -30,7 +30,7 @@ These aggregates are subject to intestinal fluid flows and can be transported up
   <source src="{{site.baseurl}}/assets/ent_expulsion.mp4" type="video/mp4">
 </video>
 
-> Movie 1: Time lapse imaging of fluorescent bacteria in a live larval zebrafish gut shows the expulsion of a large bacterial aggregate. Each frame is a maximum intensity projection of a 3D image stack acquired with light sheet fluorescence microscopy. Scale bar = 200 microns. 
+> Movie 1: Time lapse imaging of fluorescent bacteria in a live larval zebrafish gut shows the expulsion of a large bacterial aggregate. Each frame is a maximum intensity projection of a 3D image stack acquired with light sheet fluorescence microscopy. Scale bar = 200 &mu;m. 
  
 However, due to a combination of retrograde flow and aggregate fragmentation, in which single cells break out of aggregates and form new clusters, these populations can stably colonize the intestine without the need for re-introduction from outside the gut. 
 

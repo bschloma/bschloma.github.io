@@ -26,7 +26,7 @@ These small clusters turn out to function like a reservoir population that can r
   <source src="{{site.baseurl}}/assets/ent_expulsion.mp4" type="video/mp4">
 </video>
 
-> Movie 1: Time lapse imaging of fluorescent bacteria in a live, untreated larval zebrafish gut shows the expulsion of a large bacterial aggregate. Each frame is a maximum intensity projection of a 3D image stack acquired with light sheet fluorescence microscopy. Scale bar = 200 microns. 
+> Movie 1: Time lapse imaging of fluorescent bacteria in a live, untreated larval zebrafish gut shows the expulsion of a large bacterial aggregate. Each frame is a maximum intensity projection of a 3D image stack acquired with light sheet fluorescence microscopy. Scale bar = 200 &mu;m. 
 
 The depletion of single cells and small bacterial aggregates therefore leaves populations vunerable to complete extinction events and collapse of the population. This transition is captured mathematically by a [minimal mathematical model]({% link models.md %}) and is analogous to gelation transitions in soft materials.
 
