@@ -35,7 +35,7 @@ These exuplsion events register in a large, negative drop in the local bacterial
 
 #### Papers:
 
-[1] Brandon H Schlomann\*, Travis J Wiles\*, Elena S Wall, Karen Guillemin, Raghuveer Parthasarathy, Sublethal antibiotics collapse gut bacterial populations by enhancing aggregation and expulsion, in press at *PNAS* (2019) ([bioRxiv (2019) doi: https://doi.org/10.1101/565556](doi: https://doi.org/10.1101/565556))
+[1] Brandon H Schlomann\*, Travis J Wiles\*, Elena S Wall, Karen Guillemin, Raghuveer Parthasarathy, Sublethal antibiotics collapse gut bacterial populations by enhancing aggregation and expulsion, in press at *PNAS* (2019) [(bioRxiv (2019) doi: https://doi.org/10.1101/565556)](doi: https://doi.org/10.1101/565556) 
 
 [2] Travis J Wiles , Matthew Jemielita , Ryan P Baker, Brandon H Schlomann, Savannah L Logan, Julia Ganz, Ellie Melancon, Judith S Eisen, Karen Guillemin, Raghuveer Parthasarathy, Host Gut Motility Promotes Competitive Exclusion within a Model Intestinal Microbiota, [*PLoS Biology* (2016) DOI:10.1371/journal.pbio.1002517](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002517)
 
