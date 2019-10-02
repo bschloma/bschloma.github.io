@@ -32,7 +32,7 @@ The depletion of single cells and small bacterial aggregates therefore leaves po
 
 #### Papers:
 
-[1] Brandon H Schlomann\*, Travis J Wiles\*, Elena S Wall, Karen Guillemin, Raghuveer Parthasarathy, Sublethal antibiotics collapse gut bacterial populations by enhancing aggregation and expulsion, [bioRxiv (2019) doi: https://doi.org/10.1101/565556](doi: https://doi.org/10.1101/565556)
+[1] Brandon H Schlomann\*, Travis J Wiles\*, Elena S Wall, Karen Guillemin, Raghuveer Parthasarathy, Sublethal antibiotics collapse gut bacterial populations by enhancing aggregation and expulsion, in press at *PNAS* (2019) ([bioRxiv (2019) doi: https://doi.org/10.1101/565556](doi: https://doi.org/10.1101/565556))
 
 #### [Back to Research]({{site.baseurl}}/research)
 
