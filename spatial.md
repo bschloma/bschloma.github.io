@@ -38,9 +38,9 @@ My work has focused largely on understanding the rules that govern spatial organ
 
 Papers:
 
-[1] Brandon H Schlomann\*, Travis J Wiles\*, Elena S Wall, Karen Guillemin, Raghuveer Parthasarathy, Sublethal antibiotics collapse gut bacterial populations by enhancing aggregation and expulsion, bioRxiv (2019) [doi: https://doi.org/10.1101/565556](doi: https://doi.org/10.1101/565556)
+[1] Brandon H Schlomann\*, Travis J Wiles\*, Elena S Wall, Karen Guillemin, Raghuveer Parthasarathy, Sublethal antibiotics collapse gut bacterial populations by enhancing aggregation and expulsion, in press at *PNAS* (2019) ([bioRxiv (2019) doi: https://doi.org/10.1101/565556](doi: https://doi.org/10.1101/565556))
 
-[2] Brandon H Schlomann\*, Travis J Wiles\*, Elena S Wall, Karen Guillemin, Raghuveer Parthasarathy, Bacterial Cohesion Predicts Spatial Distribution in the Larval Zebrafish Intestine [*Biophysical Journal* (2018)](https://www.sciencedirect.com/science/article/pii/S0006349518311652)
+[2] Brandon H Schlomann\*, Travis J Wiles\*, Elena S Wall, Karen Guillemin, Raghuveer Parthasarathy, Bacterial Cohesion Predicts Spatial Distribution in the Larval Zebrafish Intestine [*Biophysical Journal* **115**, 2271–2277 (2018)](https://www.sciencedirect.com/science/article/pii/S0006349518311652)
 
 
 #### [Back to Research]({{site.baseurl}}/research)
