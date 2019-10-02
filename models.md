@@ -35,10 +35,10 @@ These exuplsion events register in a large, negative drop in the local bacterial
 
 #### Papers:
 
-[1] Brandon H Schlomann\*, Travis J Wiles\*, Elena S Wall, Karen Guillemin, Raghuveer Parthasarathy, Sublethal antibiotics collapse gut bacterial populations by enhancing aggregation and expulsion, [bioRxiv (2019) doi: https://doi.org/10.1101/565556](doi: https://doi.org/10.1101/565556)
+[1] Brandon H Schlomann\*, Travis J Wiles\*, Elena S Wall, Karen Guillemin, Raghuveer Parthasarathy, Sublethal antibiotics collapse gut bacterial populations by enhancing aggregation and expulsion, in press at *PNAS* (2019) ([bioRxiv (2019) doi: https://doi.org/10.1101/565556](doi: https://doi.org/10.1101/565556))
 
-[2] Travis J Wiles , Matthew Jemielita , Ryan P Baker, Brandon H Schlomann, Savannah L Logan, Julia Ganz, Ellie Melancon, Judith S Eisen, Karen Guillemin, Raghuveer Parthasarathy, Host Gut Motility Promotes Competitive Exclusion within a Model Intestinal Microbiota, [*PLoS Biology* (2016)](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002517)
+[2] Travis J Wiles , Matthew Jemielita , Ryan P Baker, Brandon H Schlomann, Savannah L Logan, Julia Ganz, Ellie Melancon, Judith S Eisen, Karen Guillemin, Raghuveer Parthasarathy, Host Gut Motility Promotes Competitive Exclusion within a Model Intestinal Microbiota, [*PLoS Biology* (2016) DOI:10.1371/journal.pbio.1002517](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002517)
 
-[3] Brandon H Schlomann, [Journal of Theoretical Biology (2018)](https://www.sciencedirect.com/journal/journal-of-theoretical-biology/vol/454/suppl/C)
+[3] Brandon H Schlomann, [Journal of Theoretical Biology **115**, 2271–2277, (2018)](https://www.sciencedirect.com/journal/journal-of-theoretical-biology/vol/454/suppl/C)
 
 #### [Back to Research]({{site.baseurl}}/research)
