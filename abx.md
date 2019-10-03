@@ -12,13 +12,13 @@ One potential class of mechanisms underlying microbiome disruption by sublethal 
 ![example model image]({{site.baseurl}}/assets/vib_cip_invitro_crop.jpg)
 > Figure 1: Bacteria that have been treated with a low dose of antibiotics (here: ciprofloxacin, a broad spectrum fluoroquinolone) can become filamented as part of a stress response. This is a fluorescence microscopy image of bacteria on a glass slide.
 
-Given our previous findings concering the important role that bacterial aggregation plays in overall population dynamics and stability (see [here]({% link models.md %})), we investigated the effects of sublethal antibiotics on gut bacteria using our zebrafish model and live imaging (see [here]({% link spatial.md %})).
+Given our previous findings concerning the important role that bacterial aggregation plays in overall population dynamics and stability (see [here]({% link models.md %})), we investigated the effects of sublethal antibiotics on gut bacteria using our zebrafish model and live imaging (see [here]({% link spatial.md %})).
 
 We indeed found that sublethal doses of the widely used antibiotic ciprofloxacin lead to orders-of-magnitude greater reductions in the abundance of gut bacteria than would be predicted from in vitro measurements, and that this response is mediated by physical processes including aggregation [1]. Upon exposure to antibiotics, bacteria shift to a more aggregated state in vivo, marked by fewer numbers of small clusters (Fig. 2). 
 
 ![example model image]({{site.baseurl}}/assets/ent_cip_full.jpg)
 
-> Figure 2: Two representative fluoresence microscopy images of bacteria in live, larval zebrafish, one untreated (top) and one treated with a low dose of ciprofloxacin for 24 hours. Antibiotic treated fish have gut bacteria that are more aggregated, with fewer single cells and small clusters. Images are maximum intensity projections of 3D image stacks obtained with light sheet fluorescence microscopy. Insets show examples of viability staining of expelled bacteria, where green indicates live bacteria and magenta indicates dead bacteria. We find that this low level of antibiotics does not lead to widespread killing of bacteria in the gut.
+> Figure 2: Two representative fluorescence microscopy images of bacteria in live, larval zebrafish, one untreated (top) and one treated with a low dose of ciprofloxacin for 24 hours. Antibiotic treated fish have gut bacteria that are more aggregated, with fewer single cells and small clusters. Images are maximum intensity projections of 3D image stacks obtained with light sheet fluorescence microscopy. Insets show examples of viability staining of expelled bacteria, where green indicates live bacteria and magenta indicates dead bacteria. We find that this low level of antibiotics does not lead to widespread killing of bacteria in the gut.
 
 These small clusters turn out to function like a reservoir population that can re-seed the gut after large clusters are expelled from the gut.
 
@@ -28,7 +28,7 @@ These small clusters turn out to function like a reservoir population that can r
 
 > Movie 1: Time lapse imaging of fluorescent bacteria in a live, untreated larval zebrafish gut shows the expulsion of a large bacterial aggregate. Each frame is a maximum intensity projection of a 3D image stack acquired with light sheet fluorescence microscopy. Scale bar = 200 &mu;m. 
 
-The depletion of single cells and small bacterial aggregates therefore leaves populations vunerable to complete extinction events and collapse of the population. This transition is captured mathematically by a [minimal mathematical model]({% link models.md %}) and is analogous to gelation transitions in soft materials.
+The depletion of single cells and small bacterial aggregates therefore leaves populations vulnerable to complete extinction events and collapse of the population. This transition is captured mathematically by a [minimal mathematical model]({% link models.md %}) and is analogous to gelation transitions in soft materials.
 
 #### Papers:
 
