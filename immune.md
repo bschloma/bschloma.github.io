@@ -21,7 +21,7 @@ We have begun to investigate these processes using larval zebrafish as model tha
 > Movie 1: Bacteria (magenta) swimming in a larval zebrafish gut localize close to the epithelium boundary. Immune cells respond by expressing the pro-inflammatory cytokine TNF&#945; (green; transgenic GFP reporter). Movie is in real time and captures a single optical z-plane of the same fish as in Fig. 1. Scale bar: 25 &mu;m.
 > 
 
-Swimming motility enables bacteria to access space close to intestinal epithelium, where their pro-inflammatory molecules are more easily sensed by immune cells. When the same species of bacteria is mutated to lose the ability to swim (by knocking out the flagella stator proteins pomAB; named "&Delta;mot"), we find that bacteria are more aggregated, are confined to the center of the gut, away from the epithelium, and induce substantially reduced immune response.
+Swimming motility enables bacteria to access space close to intestinal epithelium, where they can more strongly activate immune cells. When the same species of bacteria is mutated to lose the ability to swim (by knocking out the flagella stator proteins pomAB; named "&Delta;mot"), we find that bacteria are more aggregated, are confined to the center of the gut, away from the epithelium, and induce substantially reduced immune response.
 
 
 ![example microscopy image]({{site.baseurl}}/assets/tnf_wt_mot_fig.jpg)
