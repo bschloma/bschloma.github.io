@@ -31,6 +31,8 @@ Swimming motility enables bacteria to access space close to intestinal epitheliu
 
 Using this model of motility-dependent immune response, we are investigating the degree to which the host senses changes in bacterial swimming behaviors. In particular, in collaboration with [Travis Wiles](https://hostmicrobenexus.org/) of the [Guillemin lab](http://molbio.uoregon.edu/guillemin/) at UO, we are studying bacteria engineered inducible versions of motility mutations. With these switches, we can colonize fish with bacteria (the same native *Vibrio* species)  that cannot swim, and then at a later time give them the ability to swim simply by adding an inducer molecule to the fish water (the switch is based on tet-repressor circuitry, induced with anhydrotetracycline). Remarkably, upon induction of motility we observe an increase in TNF&alpha; expression over the course of 2 days that follows the shift of the bacterial population from non-motile to motile [1]. We are currently probing these dynamics further and working to untangle the roles of bacterial abundance, spatial organization, and active swimming activity in generating this motility-dependent immune response.
 
+See [here]({% link march_meeting_movie_page.md%}) for a 10 min talk on this research that was supposed to be given at APS March Meeting 2020 in Denver. The conference was cancelled due to the COVID-19 epidemic.
+
 #### Papers:
 
 [1] Travis J Wiles\*, Brandon H Schlomann\*, Elena S Wall, Karen Guillemin, Raghuveer Parthasarathy, Swimming motility and chemotaxis control the spatial organization, persistence, and inflammatory activity of a model intestinal pathobiont, [bioRxiv (2019) doi: https://doi.org/10.1101/779983](https://www.biorxiv.org/content/10.1101/779983v1)
