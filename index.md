@@ -1,8 +1,11 @@
 ---
 layout: home_no_posts
+title: Welcome!
 ---
-![example images]({{site.baseurl}}/assets/homefig.jpg)
+My name is Brandon Schlomann, I am a James S. McDonnell postdoctoral fellow in the lab of [Dr. Hernan Garcia](http://garcialab.berkeley.edu) at the University of California-Berkeley. I am a physicist studying interactions between microbes and the immune system. I use live imaging to peer inside animals and watch immune responses at the single-cell level. More information can be found on my [Research page]({% link research.md %}).
 
-# Welcome!
+<video width="640" height="311" autoplay controls loop>
+  <source src="{{site.baseurl}}/assets/render_1.mp4" type="video/mp4">
+</video>
 
-My name is Brandon Schlomann, I am a physics PhD candidate in the lab of [Dr. Raghuveer Parthasarathy](https://pages.uoregon.edu/raghu/) at the University of Oregon. My PhD work focuses on gut microbiomes---vast communities of bacteria and other microbes that inhabit the gastrointestinal tracts of humans and other animals. I use advanced microscopy techniques, such as [light sheet fluorescence microscopy](https://en.wikipedia.org/wiki/Light_sheet_fluorescence_microscopy), to image bacteria within the intestines of live animals and study their behaviors. Combined with computational image analysis and physics-inspired quantitative theory, this approach has led to general insights into the spatial organization and dynamics of gut microbes. More information can be found on my [Research page]({% link research.md %}).
+>This 3D rendering shows a fruit fly larvae launching an immune response to bacterial infection. Magenta shows cell membranes of a tissue called the fat body, which is a major immune organ in flies. Green is a reporter of the antimicrobial peptide Diptericin. Different cells respond differently to the infection. By analyzing images like this, we can understand how the behaviors of individual cells combine to create an organism-scale immune response. This image was taken with lightsheet fluorescence microscopy. The tissue shown is around 3 mm long.
